@@ -77,10 +77,9 @@ The report analyzes sales performance, profit trends, product performance, disco
 
 \- `Sales\_Data\_Analysis.pbix` → Power BI report
 
-\- `Store\_Dataset.xlsx` → Dataset used in the project
+- `store_dataset.xlsx` → Dataset used in the project
 
-\- `Sales data requirements.md` → Business requirements document
-
+- `business_requirements.md` → Business requirements document
 
 
 \---
