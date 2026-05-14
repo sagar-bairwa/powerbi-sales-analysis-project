@@ -60,29 +60,16 @@ The report analyzes sales performance, profit trends, product performance, disco
 
 
 
-\## Report Preview
+## Report Preview
 
+### Top & Bottom Product Analysis
+![Top Bottom Products](screenshots/top_bottom_products.png)
 
+### Sales Trend & Profit Analysis
+![Sales Trend Analysis](screenshots/sales_trend_analysis.png)
 
-\### Top \& Bottom Product Analysis
-
-!\[Top Bottom Products](Screenshot%201.png)
-
-
-
-\### Sales Trend \& Profit Analysis
-
-!\[Sales Trend Analysis](Screenshot%202.png)
-
-
-
-\### Comparative Sales Analysis
-
-!\[Comparison Analysis](Screenshot%203.png)
-
-
-
-\---
+### Comparative Sales Analysis
+![Comparison Analysis](screenshots/sales_comparison_analysis.png)
 
 
 
