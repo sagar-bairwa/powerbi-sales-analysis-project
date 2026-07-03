@@ -30,5 +30,5 @@
 
 
 
-8\) Show sales by different cities. 
+8\) Show sales by different cities.
 
