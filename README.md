@@ -198,12 +198,6 @@ powerbi-sales-analytics
 
 ---
 
-# Project Documentation
-
-📄 [Business Requirements](business_requirements.md)
-
----
-
 # Author
 
 **Sagar Bairwa**
