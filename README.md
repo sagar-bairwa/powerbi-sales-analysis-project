@@ -40,6 +40,8 @@ This project demonstrates how Power BI can transform raw sales data into an inte
 
 # Business Problem
 
+📄 [Business Requirements](business_requirements.md)
+
 A retail company wants to answer questions such as:
 
 - Which products generate the highest revenue?
