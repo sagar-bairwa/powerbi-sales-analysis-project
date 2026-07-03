@@ -119,7 +119,7 @@ The dashboard provides insights into:
 - City-wise Sales
 - Total Orders
 
-![Sales Dashboard](screenshots/sales_profit_analysis.png)
+![Sales Dashboard](screenshots/sales_trend_analysis.png)
 
 ---
 
@@ -127,7 +127,7 @@ The dashboard provides insights into:
 
 Compare sales performance between two user-selected time periods using dynamic date filters.
 
-![Comparative Analysis](screenshots/comparative_sales_analysis.png)
+![Comparative Analysis](screenshots/sales_comparison_analysis.png)
 
 ---
 
