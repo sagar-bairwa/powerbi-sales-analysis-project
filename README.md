@@ -26,7 +26,7 @@ The dashboard transforms raw sales data into actionable business insights throug
 
 # Dashboard Workflow
 
-![Workflow](screenshots/dashboard_workflow.png)
+![Workflow](screenshots/workflow.png)
 
 ---
 
