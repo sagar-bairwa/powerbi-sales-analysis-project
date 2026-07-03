@@ -198,7 +198,7 @@ powerbi-sales-analytics
 
 # Project Documentation
 
-📄 [Business Requirements](BUSINESS_REQUIREMENTS.md)
+📄 [Business Requirements](business_requirements.md)
 
 ---
 
